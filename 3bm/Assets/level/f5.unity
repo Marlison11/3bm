@@ -2947,6 +2947,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2078400386794278267, guid: efb8d323396d2d847b825d9bf6177e54, type: 3}
+      propertyPath: nomeDaCena
+      value: f6
+      objectReference: {fileID: 0}
     - target: {fileID: 3212075798367978225, guid: efb8d323396d2d847b825d9bf6177e54, type: 3}
       propertyPath: m_Name
       value: Flag 01_0
@@ -2961,11 +2965,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3756569860629231750, guid: efb8d323396d2d847b825d9bf6177e54, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -94.5
+      value: -94.16
       objectReference: {fileID: 0}
     - target: {fileID: 3756569860629231750, guid: efb8d323396d2d847b825d9bf6177e54, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -17.320002
+      value: -18.35
       objectReference: {fileID: 0}
     - target: {fileID: 3756569860629231750, guid: efb8d323396d2d847b825d9bf6177e54, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3127,7 +3131,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3095080272524618597, guid: db01797d3f429ef4b86cf64a2bfab201, type: 3}
       propertyPath: velocidade
-      value: 12
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 3519501168184386503, guid: db01797d3f429ef4b86cf64a2bfab201, type: 3}
       propertyPath: orthographic size
@@ -3199,7 +3203,7 @@ GameObject:
   m_Layer: 0
   m_Name: GameObject (1)
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3230,7 +3234,7 @@ GameObject:
   m_Layer: 0
   m_Name: GameObject
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 4422084297763085224, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -3277,8 +3281,8 @@ Transform:
   m_GameObject: {fileID: 1007978227}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -90.19, y: -3.76, z: 0}
-  m_LocalScale: {x: 1.0192415, y: 1, z: 1}
+  m_LocalPosition: {x: -90.6862, y: -3.76, z: 0}
+  m_LocalScale: {x: 1.0234426, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1700682191}
