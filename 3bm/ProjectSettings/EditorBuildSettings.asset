@@ -26,6 +26,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/level/f7.unity
     guid: 8525ce1b61369b44fb680f14e584f57d
+  - enabled: 1
+    path: Assets/level/f8.unity
+    guid: 78a69e62f5a41e7429d25349134eb5bd
+  - enabled: 1
+    path: Assets/level/f9.unity
+    guid: 71c0fcc3697c7844e812eddaa4485f96
+  - enabled: 1
+    path: Assets/level/f10.unity
+    guid: 52b430b6db593ef45b9d268b038256bd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
